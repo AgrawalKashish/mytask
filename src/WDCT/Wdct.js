@@ -3,7 +3,7 @@ import React from 'react'
 export default function Wdct() {
     return (
         <>
-            <div>
+            <div className='x'>
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container-fluid">
                         <div class="collapse navbar-collapse" id="navbarNav">
