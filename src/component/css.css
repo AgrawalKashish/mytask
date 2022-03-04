@@ -1,0 +1,21 @@
+.box{
+    height: 190px;
+    width: 270px;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(189, 189, 245);
+    margin-right: auto;
+    margin-left: auto;
+}
+.inputData{
+    text-align: center;
+    background-color: rgb(252, 177, 39);
+}
+.inputField{
+    border: 1.9px solid black;
+    border-radius: 3px;
+    background-color: rgb(201, 238, 238);
+}
+.Weather{
+    text-align: center;
+}
